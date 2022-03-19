@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>Tarea 8</title>
+<h1><div id="encabezado">universidades</div></gh1>
+</head>
+<style type="text/css">
+#encabezado{background-color:black;font-famyli:arial;color:white;font-size:40pt;float:left;height:100px;width:100%;borde-width:2px;border-style:solid;}
+#contenido{float:right;width:600px;}
+#universidades{background-color:Gray;font-family:arial;color:black;font-size:20pt;float:left;height:390px;width:11%;padding-left:2%;border-width:3px;border-style:solid;}
+#itm{background-color:gray;font-family:arial;color:black;font-size:12pt;text-aling:center;float:right;width:85%;
+height:105px;padding-top:25px;border-style:solid;border-width:1px 4px 1px 3px;borde-color:black;}
+#uady{background-color:black;font-family:arial;color:white;font-size:12pt;text-aling:center;float:right;width:85%;
+height:105px;padding-top:25px;border-style:solid;border-width:1px 4px 1px 3px;borde-color:black;}
+#utm{background-color:gray;font-family:arial;color:black;font-size:12pt;text-aling:center;float:right;width:85%;
+height:105px;padding-top:25px;border-style:solid;border-width:1px 4px 1px 3px;borde-color:black;}
+</style>
+<body bg color=black>
+<div id="universidades">
+<ol type="1"><center>
+<pre><li><a href="https://www.itmerida.mx/">itm</a></li>
+<pre><li><a href="https://www.uady.mx/">uady</a></li>
+<pre><li><a href="http://www.utmetropolitana.edu.mx/index.html">utm</a></li>
+</ol></div></pre>
+<pre><center>
+<div id="itm">El instituto tecnológico de Mérida ofrece tanto licenciaturas, como maestrías. Entre las licenciaturas que ésta imparte son la ingenierías: BIOQUÍMICA,
+AMBIENTAL,BIOMÉDICA, ELÉCTRICA, ELECTRÓNICA, MECÁNICA, CIVIL, INDUSTRIAL, EN SISTEMAS COMPUTACIONALES; al igual que las licenciaturas: EN GESTIÓN EMPRESARIAL.</div>
+<div id="uady">La universidad autónoma de Yucatán, ofrece una gran oferta educativa, no sólo en el ámbito superior sino en el medio superior; al igual que ofrece maestrías
+y doctorados. Es la universidad que cuenta con varias facultades alrededor de todo el estado</div>
+<div id="utm">La universidad tecnológica metropolitana ofrece las licenciaturas de: GASTRONOMÍA, DESARROLLO DE NEGOCIOS, DISEÑO DIGITAL, MANTENIMIENTO, MECATRÓNICA,
+PROCESOS NATURALES, ENERGÍAS RENOVABLES, PRODUCCIÓN DE MODA</div>
+</pre>
+</html>
